@@ -1,6 +1,4 @@
-### Laptop Configuration 
-```
-  --------[ 鲁大师 ]--------------------------------------------------------------------------------
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
 
   软件:             鲁大师 5.15.16.1025
   时间:             2017-12-10 04:49:26
@@ -315,33 +313,4 @@
   CPU封装             42℃
   显卡                39℃
   硬盘温度            31℃
-
-
-```
-
-### Working 
-
-![A4C5E5590760CD1B634DB9526DCEFCA6](http://ovefvi4g3.bkt.clouddn.com/A4C5E5590760CD1B634DB9526DCEFCA6.jpg)
-
-![3A6FDF0DCDF0B5CC0EA4CFC0F311B81B](http://ovefvi4g3.bkt.clouddn.com/3A6FDF0DCDF0B5CC0EA4CFC0F311B81B.png)
-
-![876897606D5AAFFF05E2475F95B1FA04](http://ovefvi4g3.bkt.clouddn.com/876897606D5AAFFF05E2475F95B1FA04.png)
-
-![3213D705B050854F128A07045E4645E7](http://ovefvi4g3.bkt.clouddn.com/3213D705B050854F128A07045E4645E7.png)
-
-![7404EB29D7D9BE0F5644C1B005C64779](http://ovefvi4g3.bkt.clouddn.com/7404EB29D7D9BE0F5644C1B005C64779.png)
-
-![ED95F604D75FA1B372C075FA8ACB9541](http://ovefvi4g3.bkt.clouddn.com/ED95F604D75FA1B372C075FA8ACB9541.png)
-
-![141EED2BD61D4C75567A5691BDD56DA6](http://ovefvi4g3.bkt.clouddn.com/141EED2BD61D4C75567A5691BDD56DA6.png)
-
-![82C154E4F424C587C1E1D26EE3F2EDEF](http://ovefvi4g3.bkt.clouddn.com/82C154E4F424C587C1E1D26EE3F2EDEF.png)
-
-![D683083BBDCF4E8077E6284A1C295167](http://ovefvi4g3.bkt.clouddn.com/D683083BBDCF4E8077E6284A1C295167.png)
-
-![2D86E90BAD82BA815EB1EC7329ADBBBF](http://ovefvi4g3.bkt.clouddn.com/2D86E90BAD82BA815EB1EC7329ADBBBF.png)
-
-### Notes 
-`DisplayVendorID-9e5` can fix problems after sleep and awake such as macroblocking。Please put it in `/System/Library/Displays/Contents/Resources/Overrides/`。
-
 
