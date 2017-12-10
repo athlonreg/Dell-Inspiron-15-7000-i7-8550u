@@ -1,0 +1,1 @@
+# Dell-Inspiron-15-7000-i7-8550u
