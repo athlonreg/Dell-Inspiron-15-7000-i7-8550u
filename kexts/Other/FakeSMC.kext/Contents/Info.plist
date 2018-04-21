@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>17B35a</string>
+	<string>17E199</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.26-322-g1b20eab7.1765</string>
+	<string>6.26-344-g1cf53906.1787</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1765</string>
+	<string>1787</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -42,36 +42,6 @@
 	<string>8E3004b</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>AppleLPC_SB</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>com.apple.driver.AppleLPC</string>
-			<key>IOClass</key>
-			<string>AppleLPC</string>
-			<key>IONameMatch</key>
-			<array>
-				<string>pci8086,9d4e</string>
-			</array>
-			<key>IOProbeScore</key>
-			<integer>1000</integer>
-			<key>IOProviderClass</key>
-			<string>IOPCIDevice</string>
-			<key>LCTL_Offset</key>
-			<integer>8616</integer>
-		</dict>
-		<key>BroadcomUSBBluetoothHCIController</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
-			<key>IOClass</key>
-			<string>BroadcomBluetoothHostControllerUSBTransport</string>
-			<key>IOProviderClass</key>
-			<string>IOUSBHostDevice</string>
-			<key>idProduct</key>
-			<integer>57351</integer>
-			<key>idVendor</key>
-			<integer>3315</integer>
-		</dict>
 		<key>FakeSMC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
@@ -304,7 +274,7 @@
 			<key>RM,Build</key>
 			<string>Release-rehabman</string>
 			<key>RM,Version</key>
-			<string>FakeSMC 1765</string>
+			<string>FakeSMC 1787</string>
 		</dict>
 		<key>FakeSMCKeyStore</key>
 		<dict>
